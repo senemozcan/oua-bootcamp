@@ -38,6 +38,7 @@ Hedefleri, ilk şüphelileri olan kasabadaki seri katili bulmaktır. Kimseye yak
 - PC
 
 ## Hedef Kitle
++13
 
 ## Product Backlog Url
 [Trello] - <https://trello.com/b/riHzaPSR/i%CC%87simsiz-pano>
@@ -47,16 +48,31 @@ Hedefleri, ilk şüphelileri olan kasabadaki seri katili bulmaktır. Kimseye yak
 **Sprint Notları:**  23.06.2024 tarihinde oyuna karar verildi. Proje yönetim aracı olarak Trello’ya
 karar verildi. 
 
-**Sprint içinde tamamlanmasi tahmin edilen puan:**
+**Sprint içinde tamamlanmasi tahmin edilen puan:** İlk sprintte 100 sprint puan tamamlanması tahhmin edilmiştir.
 
-**Puan Tamamlama Mantığı:**
+**Puan Tamamlama Mantığı:** Proje boyunca toplam 300 puanlık bir sprint puan hedefi düşünülmüştür.
 
 **Daily Scrum:** Günlük konuşmaların ve toplantıların Discord üzerinden yapılması konuşuldu.
 Toplantıların 2-3 günlük tekrarlar ile yapılması konuşuldu. Her akşam o gün yapılanların bildirilmesi kararlaştırıldı.
 
-**Sprint Board Update:** Trelloscreenshotları*
+**Discord ve Toplantı Screenhoot:** 
 
-**Ürün Durumu:** Tasarımfotoğrafları*
+<img src= "https://github.com/senemozcan/oua-bootcamp/blob/main/Discord%20Screenshoots/Discord%20screenshot.png" width=200 > <img src="https://github.com/senemozcan/oua-bootcamp/blob/main/Discord%20Screenshoots/discord2.png" width=200 > 
+<img src="https://github.com/senemozcan/oua-bootcamp/blob/main/Discord%20Screenshoots/discord3.png" width=200 >
+
+**Sprint Board Update:** Trelloscreenshot
+
+<img src="https://github.com/senemozcan/oua-bootcamp/blob/main/Discord%20Screenshoots/Trello.png" width=200 > <img src="https://github.com/senemozcan/oua-bootcamp/blob/main/Discord%20Screenshoots/Trello2.png" width=200 >
+  
+**Ürün Durumu:** 
+
+<img src="https://github.com/senemozcan/oua-bootcamp/blob/main/Images/Karkter.Front.png" width=200 > <img src="https://github.com/senemozcan/oua-bootcamp/blob/main/Images/Karakter.Back.png" width=200 >
+<img src="https://github.com/senemozcan/oua-bootcamp/blob/main/Images/0_0.webp" width=200 >
+<img src="https://github.com/senemozcan/oua-bootcamp/blob/main/Images/oda1.png" width=200 >
+<img src="https://github.com/senemozcan/oua-bootcamp/blob/main/Images/Oda2.png" width=200 >
+<img src="https://github.com/senemozcan/oua-bootcamp/blob/main/Images/Tepe.png" width=200 >
+<img src="https://github.com/senemozcan/oua-bootcamp/blob/main/Images/Polis%20Screenshot.png" width=200 >
+<img src="https://github.com/senemozcan/oua-bootcamp/blob/main/Images/Oyun%20screenshot.png" width=200 >
 
 **Sprint Review:**
 
