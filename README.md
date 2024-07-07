@@ -76,6 +76,13 @@ Toplantıların 2-3 günlük tekrarlar ile yapılması konuşuldu. Her akşam o 
 
 **Sprint Review:**
 
+- Karakter ile çevre assetlerine, seviye sayısına ve hikaye akışına karar verilmiştir.
+- Tasarımda low poly ve karanlık bir dizayn düşünülmüştür.
+
 **Sprint Retrospective:**
+
+- Kod ekibi olarak ayrıyetten toplantı düzenlenip karakterin hareket kodları eklenmiştir.
+- Basit çevre tasarımı ve başlangıç ara sahne görselleri oluşturulmuştur.
+- Gelecek sprintte daha yoğun bir tempo izlenmesi düşünülmüştür. 
 
 
