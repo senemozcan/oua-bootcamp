@@ -11,6 +11,7 @@ The Necklace
 # Product Backlog URL
 [U81 Unity Trello Backlog Board](http://handlebarsjs.com/)
 
+https://trello.com/b/riHzaPSR/bootcamp-grup-81
 # Information about game
 - 3D
 - Single Player
