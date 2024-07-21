@@ -71,6 +71,7 @@ Sprint 1 board update: Sprint Board Screenshots:
 
 Sprint 1 board update: Sprint Board Screenshots:
 
+<img src= "https://github.com/senemozcan/oua-bootcamp/blob/main/Images/Screenshot_20240721_231655_Discord~2.jpg" width=200 >
   
 **Product Update:** 
 
