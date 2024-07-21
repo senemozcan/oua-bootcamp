@@ -73,6 +73,9 @@ Sprint 1 board update: Sprint Board Screenshots:
   
 **Product Update:** 
 
+<img src="https://github.com/senemozcan/oua-bootcamp/blob/main/Images/Oyun%20durumu%202.1.png" width=200 >
+
+<img src="https://github.com/senemozcan/oua-bootcamp/blob/main/Images/Oyun%20Durumu%202.2.png" width=200 >
 
 # Spring Review:
 
