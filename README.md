@@ -54,3 +54,35 @@ Sprint 1 board update: Sprint Board Screenshots:
 - Some cinematic scenes have been added.
 - Basic and fundamental intermediate scenes have been added
 - It is anticipated that the next sprint will have a more intense pace.
+
+
+# Sprint 2
+
+- The score evaluation within the Sprint was determined as 5.
+  
+- Score completion logic: The backlog score to be completed throughout the project is 30. The number of points to be completed for the first Sprint was determined as 10 and the target was achieved.
+  
+- Daily Scrum: Meetings were held via Discord. 
+----------------
+- Design and Development Logic: The design side will also work on the developing side. The team found it appropriate to create a separate group in order to fully integrate the design language in Sprints 1 and 2.
+
+- Design Group Members: Esma, Esad, Emre.
+
+Sprint 1 board update: Sprint Board Screenshots:
+
+  
+**Product Update:** 
+
+
+# Spring Review:
+
+- Level designs were upgraded and two more level were add.
+  
+# Sprint Retrospective:
+
+- It is anticipated that the next sprint will have a more intense pace.
+
+- The pace was slow so  5 point will be add to the third sprint.
+
+
+
