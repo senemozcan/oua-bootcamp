@@ -97,3 +97,39 @@ Sprint 1 board update: Sprint Board Screenshots:
 
 
 
+# Sprint 3
+
+- The score evaluation within the Sprint was determined as 5.
+  
+- Score completion logic: The backlog score to be completed throughout the project is 30. The number of points to be completed for the first Sprint was determined as 10 and the target was achieved.
+  
+- Daily Scrum: Meetings were held via Discord and e-mail.
+----------------
+- Design and Development Logic: The design side will also work on the developing side.
+  
+Sprint 1 board update: Sprint Board Screenshots:
+
+<img src= "" width=200 >
+
+**Trello Screenshots:**
+
+<img src= "">
+
+<img src = "">
+  
+**Product Update:** 
+
+<img src="" width=200 >
+
+<img src="[https://github.com/senemozcan/oua-bootcamp/blob/main/Images/Oyun%20Durumu%202.2.png](https://github.com/senemozcan/oua-bootcamp/blob/main/Images/Finish.jpg)" width=200 >
+
+# Spring Review:
+
+- Level designs were upgraded and one more level and menu screens were add.
+  
+# Sprint Retrospective:
+
+- It is anticipated that the next projects should be more organized.
+
+
+
