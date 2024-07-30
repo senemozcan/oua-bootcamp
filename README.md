@@ -121,7 +121,7 @@ Sprint 1 board update: Sprint Board Screenshots:
 
 <img src="" width=200 >
 
-<img src="[https://github.com/senemozcan/oua-bootcamp/blob/main/Images/Oyun%20Durumu%202.2.png](https://github.com/senemozcan/oua-bootcamp/blob/main/Images/Finish.jpg)" width=200 >
+<img src= "https://github.com/senemozcan/oua-bootcamp/blob/main/Images/Finish.jpg" width=200 >
 
 # Spring Review:
 
