@@ -75,9 +75,9 @@ Sprint 1 board update: Sprint Board Screenshots:
 
 **Trello Screenshots:**
 
-<img src= "https://github.com/senemozcan/oua-bootcamp/blob/main/Discord%20Screenshoots/Screenshot_20240722_212144_Samsung%20Internet.jpg">
+<img src= "https://github.com/senemozcan/oua-bootcamp/blob/main/Discord%20Screenshoots/Screenshot_20240722_212144_Samsung%20Internet.jpg" width=200>
 
-<img src = "https://github.com/senemozcan/oua-bootcamp/blob/main/Discord%20Screenshoots/Screenshot_20240722_212134_Samsung%20Internet.jpg">
+<img src = "https://github.com/senemozcan/oua-bootcamp/blob/main/Discord%20Screenshoots/Screenshot_20240722_212134_Samsung%20Internet.jpg" width=200>
   
 **Product Update:** 
 
