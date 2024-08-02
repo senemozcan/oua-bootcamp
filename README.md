@@ -111,15 +111,12 @@ Sprint 1 board update: Sprint Board Screenshots:
 
 <img src= "" width=200 >
 
-**Trello Screenshots:**
+**Trello and Discord Screenshots:**
 
-<img src= "">
+<img src= "https://github.com/senemozcan/oua-bootcamp/blob/main/Discord%20Screenshoots/Screenshot_20240802_134134_Discord.jpg">
 
-<img src = "">
-  
+
 **Product Update:** 
-
-<img src="" width=200 >
 
 <img src= "https://github.com/senemozcan/oua-bootcamp/blob/main/Images/Finish.jpg" width=200 >
 
