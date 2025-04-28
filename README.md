@@ -74,8 +74,6 @@ Sprint 1 board update: Sprint Board Screenshots:
 
 Sprint 1 board update: Sprint Board Screenshots:
 
-<img src= "https://github.com/senemozcan/oua-bootcamp/blob/main/Images/Screenshot_20240721_231655_Discord~2.jpg" width=200 >
-
 **Trello Screenshots:**
 
 <img src= "https://github.com/senemozcan/oua-bootcamp/blob/main/Discord%20Screenshoots/Screenshot_20240722_212144_Samsung%20Internet.jpg" width=200>
@@ -110,14 +108,6 @@ Sprint 1 board update: Sprint Board Screenshots:
 ----------------
 - Design and Development Logic: The design side will also work on the developing side.
   
-Sprint 1 board update: Sprint Board Screenshots:
-
-<img src= "" width=200 >
-
-**Trello and Discord Screenshots:**
-
-<img src= "https://github.com/senemozcan/oua-bootcamp/blob/main/Discord%20Screenshoots/Screenshot_20240802_134134_Discord.jpg">
-
 
 **Product Update:** 
 
